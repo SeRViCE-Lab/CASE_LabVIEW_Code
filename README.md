@@ -4,7 +4,7 @@ Investigation
 **Authors: Olalekan Ogunmolu, Xuejun Gu, Steve Jiang, Nicholas Gans**
 
 ###Maintainer: Olalekan P. Ogunmolu
-This code is the implementation of my [paper](http://arxiv.org/pdf/1506.04787v1) which will be presented at the 2015 IEEE Conference on Automation Science and Engineering in Gothenburg, Sweden.
+This code is the implementation of my [paper](http://lakehanne.github.io/downloads/CASE2015_Soft_Robot.pdf) which was presented at the 2015 IEEE Conference on Automation Science and Engineering in Gothenburg, Sweden.
 
 ###Abstract
 We present an initial examination of a novel approach to accurately position a patient during head and neck intensity modulated radiotherapy (IMRT). Position-based visual-servoing of a radio-transparent soft robot is used to control the flexion/extension cranial motion of a manikin head. A Kinect RGB-D camera is used to measure head position and the error between the sensed and desired position is used to control a pneumatic system which regulates pressure within 
@@ -22,3 +22,4 @@ Please read the paper for more details.
 ###Questions
 If you have any problem implementing the code, please raise an [issue](https://github.com/lakehanne/CASE_LabVIEW_Code/issues). 
 I will generally respond within a 24-hour period.
+
